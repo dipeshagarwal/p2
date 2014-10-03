@@ -6,7 +6,7 @@
 <label name="countwords">Number of words</label>
 <input type="text" id="countwords" name="countwords" value="10"/><br />
 <label name="lengthpassword">Maximum Length of password</label>
-<input type="text" id="lengthpassword" name="lengthpassword" value="6"/><br />
+<input type="text" id="lengthpassword" name="lengthpassword" value="9"/><br />
 <label name="uppercase">Upper case First Letter?</label>
 <input type="checkbox" name="uppercase" value="checkbox" <?php echo ($uppercase) ? 'checked = "checked"' : ''; ?>/><br />
 <label name="symbol">Use a symbol?</label>
