@@ -1,1 +1,16 @@
-<h1>Hello World Project 2!</h1>
+
+
+
+<!doctype html>
+<html>
+    <?php include("/header.php"); ?>
+<body>
+
+<?php include("/logic.php"); ?>
+    <?php include("/content.php"); ?>
+
+
+
+
+</body>
+</html>
