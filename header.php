@@ -1,4 +1,5 @@
 <head>
+<meta charset="utf-8">
 <title>Password Generator</title>
 <meta name="description" content="xkcd Style Password Generator">
 <meta name="keywords" content="Password Generator" />

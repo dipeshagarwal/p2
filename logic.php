@@ -20,8 +20,7 @@ if (isset($_POST['lengthpassword']))
 		
 		if (!is_numeric($lengthpassword)) 
 		{
-			 echo "Please enter Number in 'Length of password'  !";
-			 
+			 echo "Please enter Number in 'Length of password'  !";		 
 		}
 	} 
 	else 
