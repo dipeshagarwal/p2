@@ -2,7 +2,7 @@
 <h2>xkcd Style Password Generator</h2>
 <h4>This Password Generator generates passwords consisting from common words. Such words are hard to guess (even by brute force), but easy to remember, making them interesting password choices.</h4>
 <h3>Fill Details</h3>
-<form method="POST" action="/p2/index.php">
+<form method="POST" action="index.php">
 <label name="countwords">Number of words</label>
 <input type="text" id="countwords" name="countwords" value="10"/><br />
 <label name="lengthpassword">Maximum Length of password</label>
